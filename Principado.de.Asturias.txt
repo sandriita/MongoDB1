@@ -1,0 +1,35 @@
+>db.ccaa.insert({
+       Nombre: "Principado de Asturias", Capital: "Oviedo",Provincia: [
+          {Nombre: "Asturias", Poblacion: 189434, Capital: "Oviedo", Localidades:[
+             {Nombre: "Oviedo"},
+             {Nombre: "Avilés"},
+             {Nombre: "Gijón"},
+             {Nombre: "Argollanes"},
+             {Nombre: "Arquera"},
+             {Nombre: "Aviño"},
+             {Nombre: "Barquera"},
+             {Nombre: "Ayones"},
+             {Nombre: "Belonga"},
+             {Nombre: "Barreros"},
+             {Nombre: "Belovio"},
+             {Nombre: "Bosque"},
+             {Nombre: "Allande"},
+             {Nombre: "Brañiella"},
+             {Nombre: "Cabaña"},
+             {Nombre: "Escalones"},
+             {Nombre: "Faberín"},
+             {Nombre: "Faro de Arriba"},
+             {Nombre: "Folzalguera"},
+             {Nombre: "Friera"},
+             {Nombre: "Godos"},
+             {Nombre: "Grandota"},
+             {Nombre: "Heras"},
+             {Nombre: "Latores"},
+             {Nombre: "Lampaya"},
+             {Nombre: "Llamaoscura"},
+             {Nombre: "Puerto"},
+             {Nombre: "Quintana"},
+             {Nombre: "Rebollada"},
+             {Nombre: "Villarmil"}]
+          }]
+                       });

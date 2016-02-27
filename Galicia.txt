@@ -1,0 +1,131 @@
+>db.ccaa.insert({
+       Nombre: "Galicia", Capital: "Santiago de Compostela", Provincias:[{
+          Nombre:"La Coruña", Poblacion: 244810, Capital: "A Coruña", Localidades:[
+             {Nombre: "Castro de Elviña"},
+             {Nombre: "Fontaiña"},
+             {Nombre: "Pedralonga"},
+             {Nombre: "Mesoiro"},
+             {Nombre: "Río de Quintans"},
+             {Nombre: "Santa Gema"},
+             {Nombre: "Zapateira"},
+             {Nombre: "Cances"},
+             {Nombre: "Fontenova"},
+             {Nombre: "Moura"}
+             {Nombre: "Palavea"},
+             {Nombre: "Pasaje a el Burgo"},
+             {Nombre: "Montserrat"},
+             {Nombre: "Monte tras da Costa"},
+             {Nombre: "Jubias"},
+             {Nombre: "Madosa"},
+             {Nombre: "Eiris de Arriba"},
+             {Nombre: "Cernadas"},
+             {Nombre: "Curramontes"},
+             {Nombre: "Castaño de Eiris"}
+             {Nombre: "Casanova de Eiris"}
+             {Nombre: "Portiño"}
+             {Nombre: "Casablanca"}
+             {Nombre: "Vio"}
+             {Nombre: "Zapateira"}
+             {Nombre: "Birloque"}
+             {Nombre: "Viñas"}
+             {Nombre: "Grela"}
+             {Nombre: "Bens"}
+             {Nombre: "Comeanda"}
+             ]},
+          {Nombre:"Pontevedra", Poblacion: 82946, Capital: "Pontevedra", Localidades:[
+             {Nombre: "Agolada"},
+             {Nombre: "Vila de Cruces"},
+             {Nombre: "Silleda"},
+             {Nombre: "Dozón"},
+             {Nombre: "Estrada"},
+             {Nombre: "Rodeiro"},
+             {Nombre: "Lalín"},
+             {Nombre: "Cerdedo"},
+             {Nombre: "Pontecesures"},
+             {Nombre: "Portas"}
+             {Nombre: "Forcarei"}
+             {Nombre: "Catoira"}
+             {Nombre: "Caldas de Reis"}
+             {Nombre: "Cuntis"}
+             {Nombre: "Valga"}
+             {Nombre: "Vilagarcía de Arousa"}
+             {Nombre: "Vilanova de Arousa"}
+             {Nombre: "Barro"}
+             {Nombre: "Pontevedra"}
+             {Nombre: "Cotobade"}
+             {Nombre: "Campo Lameiro"}
+             {Nombre: "Sanxenxo"}
+             {Nombre: "Meis"}
+             {Nombre: "Cambados"}
+             {Nombre: "Poio"}
+             {Nombre: "Meaño"}
+             {Nombre: "Grove"}
+             {Nombre: "Ribadumia"}
+             {Nombre: "Moraña"}
+             {Nombre: "Cangas"}
+             ]},
+          {Nombre:"Ourense", Poblacion: 106905, Capital: "Ourense", Localidades:[
+             {Nombre: "Astur"},
+             {Nombre: "Azoreira"},
+             {Nombre: "Las ermitas"},
+             {Nombre: "Arcucelos"},
+             {Nombre: "Anllo"},
+             {Nombre: "Allariz"},
+             {Nombre: "Reza"},
+             {Nombre: "Baldemir"},
+             {Nombre: "Balt"},
+             {Nombre: "Baños de Molgas"}
+             {Nombre: "Rubricado"}
+             {Nombre: "Bangu"}
+             {Nombre: "Antas"}
+             {Nombre: "Acered"}
+             {Nombre: "Baldrei"}
+             {Nombre: "Plano"}
+             {Nombre: "Pedrosa"}
+             {Nombre: "Barca"}
+             {Nombre: "La isla"}
+             {Nombre: "Un Piuca"}
+             {Nombre: "Cintas"}
+             {Nombre: "Fechas"}
+             {Nombre: "Fradelo"}
+             {Nombre: "Froufe"}
+             {Nombre: "Grob"}
+             {Nombre: "Langullo"}
+             {Nombre: "Fumar"}
+             {Nombre: "Fontefría"}
+             {Nombre: "Larouco"}
+             {Nombre: "Esgos"}
+             ]},
+          {Nombre:"Lugo", Poblacion: 98560, Capital: "Lugo", Localidades:[
+             {Nombre: "Orol"},
+             {Nombre: "Pastoriza"},
+             {Nombre: "Páramo"},
+             {Nombre: "Paradela"},
+             {Nombre: "Láncara"},
+             {Nombre: "Jove"},
+             {Nombre: "Germade"},
+             {Nombre: "Navia de Suarna"},
+             {Nombre: "Palas de Rey"},
+             {Nombre: "Pol"}
+             {Nombre: "Antas de Ullas"}
+             {Nombre: "Pantón"}
+             {Nombre: "Puebla del Brollón"}
+             {Nombre: "Guitiriz"}
+             {Nombre: "Guntín"}
+             {Nombre: "Los Nogales"}
+             {Nombre: "La Corota"}
+             {Nombre: "Margaride de Lor"}
+             {Nombre: "Puente Nuevo"}
+             {Nombre: "Puertomarín"}
+             {Nombre: "Meira"}
+             {Nombre: "Cervo"}
+             {Nombre: "Chantada"}
+             {Nombre: "Cervantes"}
+             {Nombre: "Carballedo"}
+             {Nombre: "Begonte"}
+             {Nombre: "Belesar"}
+             {Nombre: "Barreiros"}
+             {Nombre: "Castroverde"}
+             {Nombre: "Piedrafita del Cebrero"}
+             ]}
+                       ]});
